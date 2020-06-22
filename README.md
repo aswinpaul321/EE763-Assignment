@@ -15,3 +15,5 @@ I could run the variational inference defining a basic likelihood function and r
 This reconstruction required variational inference as we assumed the noisy image is a pixel wise obervation to a hidden image (posterior attempting to recreate).
 The posterior multivariate distribution mentioned can be used to sample many variations of the input noisy image. 
 Please look at the input and and output screenshots to see the results.
+
+Can the muliple copies be used to denoise the image as random noise may cancel out? I am looking in that direction too.
